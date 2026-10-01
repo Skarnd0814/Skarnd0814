@@ -1,30 +1,34 @@
-<!-- 배너 이미지 -->
+<!-- 상단 배너 -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=fff&animation=fadeIn)
 
-# 🌟 Hi, I'm [Your Name] 🌟
+# 👋 Hi, I'm [Your Name]
 
-## ✨ About Me
-- 🔭 Currently working on exciting projects in **Web Development**  
-- 🌱 Learning **AI/ML** and **Cloud Computing**  
-- 🎯 Goal: To build impactful open-source projects  
-- 💬 Ask me about **React, Node.js, Python**  
-- 📫 Reach me at: [your email]  
+## 🎓 Academic Background
+- 🏫 Major: 자유전공학부  
+- 🌟 Interested Field: AISW 계열 (AI & Software)  
+- 📖 Passionate about exploring interdisciplinary knowledge and applying it to cutting-edge technology.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+- 🔭 Currently learning and experimenting with **AI, Software Engineering, and Data Science**  
+- 🌱 Exploring how **interdisciplinary studies** can enrich problem-solving in tech  
+- 🎯 Goal: To contribute to innovative projects in **Artificial Intelligence & Software Development**  
+
+---
+
+## 🛠️ Tech Stack (예시)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-- 🚀 [Project 1](link) — A modern web app with React & Node.js  
-- 🤖 [Project 2](link) — AI-powered chatbot using Python  
-- ☁️ [Project 3](link) — Cloud-native microservices with Docker  
+- 🤖 [AI Project](link) — Exploring machine learning applications  
+- 💻 [Software Engineering Project](link) — Building scalable web applications  
+- 📊 [Data Science Project](link) — Analyzing and visualizing complex datasets  
 
 ---
 
@@ -34,14 +38,8 @@
 
 ---
 
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
 [![Blog](https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=blogger)](https://yourblog.com)
 
 ---
