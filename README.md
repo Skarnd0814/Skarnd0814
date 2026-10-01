@@ -1,7 +1,8 @@
 # GitHub에 오신 것을 환영합니다
 
 ## 학문적 배경
-- 전공: 컴퓨터 과학 (게임 개발 지향)  
+- 전공: 자유전공학부
+- AISW 계열 진학 희망 (게임 개발 지향)  
 - 관심 분야: 게임 프로그래밍, 게임 엔진, 인터랙티브 미디어  
 - 목표: 창의성과 기술을 결합하여 혁신적인 게임을 개발하는 것  
 
@@ -15,27 +16,26 @@
 ---
 
 ## 기술 역량
-- **프로그래밍 언어**: C++, C#, Python  
-- **게임 엔진**: Unity, Unreal Engine  
-- **그래픽스 및 도구**: OpenGL, Blender, Photoshop  
-- **기타 도구**: Git, Docker, Linux  
+- **프로그래밍 언어**: C, Python  
+- **게임 엔진**:  
+- **그래픽스 및 도구**:
+- **기타 도구**:
 
 ---
 
 ## 프로젝트
-- [2D 플랫폼 게임](link) — Unity 기반으로 제작한 간단한 2D 게임  
-- [VR 인터랙션 데모](link) — Unreal Engine을 활용한 가상현실 체험 프로젝트  
-- [AI 기반 NPC 시스템](link) — Python으로 구현한 NPC 행동 패턴 및 학습 시스템  
+- 
+- 
+- 
 
 ---
 
 ## GitHub 활동 분석
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skarnd0814&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Skarnd0814=yourusername&layout=compact&theme=default)
 
 ---
 
 ## 연락처
-- 이메일: [your email]  
-- LinkedIn: [your profile link]  
+- 이메일: [060814skarnd@gmail.com]  
 - 포트폴리오: [your website]  
