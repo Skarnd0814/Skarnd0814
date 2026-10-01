@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Game%20Developer&fontSize=40&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=)
 
 # GitHub에 오신 것을 환영합니다
 
