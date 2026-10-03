@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=)
 
-# GitHub에 오신 것을 환영합니다
+# 환영합니다
 
 ## 학문적 배경
 - 전공: 자유전공학부
@@ -18,15 +18,15 @@
 ---
 
 ## 기술 역량
-- **프로그래밍 언어**: C, Python  
-- **게임 엔진**:  
-- **그래픽스 및 도구**:
+- **프로그래밍 언어**: C, C#, Python  
+- **게임 엔진**: Unity  
+- **그래픽스 및 도구**: Gemini, ElevenLabs, Suno
 - **기타 도구**:
 
 ---
 
 ## 프로젝트
-- 
+- AvoidObstacles
 - 
 - 
 
