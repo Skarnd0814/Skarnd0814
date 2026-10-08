@@ -20,7 +20,7 @@
 ## 기술 역량
 - **프로그래밍 언어**: C, C#, Python  
 - **게임 엔진**: Unity  
-- **그래픽스 및 도구**: Gemini, ElevenLabs, Suno
+- **그래픽스 및 도구**: Gemini, ElevenLabs, Suno, Claude
 - **기타 도구**:
 
 ---
