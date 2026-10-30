@@ -29,6 +29,11 @@
 - AvoidObstacles
 - Bushi
 - BlockBlast
+- SlimeImbiber
+- PokeGrab
+- KeyBoardTyping
+- PixelGround
+- Gun's Arena
 
 ---
 
